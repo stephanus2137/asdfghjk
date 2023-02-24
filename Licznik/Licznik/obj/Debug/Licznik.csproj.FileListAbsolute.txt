@@ -1,0 +1,32 @@
+C:\Users\gacek\source\repos\Licznik\Licznik\bin\Debug\Licznik.exe.config
+C:\Users\gacek\source\repos\Licznik\Licznik\bin\Debug\Licznik.exe
+C:\Users\gacek\source\repos\Licznik\Licznik\bin\Debug\Licznik.pdb
+C:\Users\gacek\source\repos\Licznik\Licznik\obj\Debug\Licznik.csproj.AssemblyReference.cache
+C:\Users\gacek\source\repos\Licznik\Licznik\obj\Debug\Licznik.FormLicznik.resources
+C:\Users\gacek\source\repos\Licznik\Licznik\obj\Debug\Licznik.Properties.Resources.resources
+C:\Users\gacek\source\repos\Licznik\Licznik\obj\Debug\Licznik.csproj.GenerateResource.cache
+C:\Users\gacek\source\repos\Licznik\Licznik\obj\Debug\Licznik.csproj.CoreCompileInputs.cache
+C:\Users\gacek\source\repos\Licznik\Licznik\obj\Debug\Licznik.exe
+C:\Users\gacek\source\repos\Licznik\Licznik\obj\Debug\Licznik.pdb
+C:\Users\jacek.gawronski\Desktop\Microsoft Visual Studio\Licznik\Licznik\bin\Debug\Licznik.exe.config
+C:\Users\jacek.gawronski\Desktop\Microsoft Visual Studio\Licznik\Licznik\bin\Debug\Licznik.exe
+C:\Users\jacek.gawronski\Desktop\Microsoft Visual Studio\Licznik\Licznik\bin\Debug\Licznik.pdb
+C:\Users\jacek.gawronski\Desktop\Microsoft Visual Studio\Licznik\Licznik\obj\Debug\Licznik.csproj.AssemblyReference.cache
+C:\Users\jacek.gawronski\Desktop\Microsoft Visual Studio\Licznik\Licznik\obj\Debug\Licznik.csproj.SuggestedBindingRedirects.cache
+C:\Users\jacek.gawronski\Desktop\Microsoft Visual Studio\Licznik\Licznik\obj\Debug\Licznik.FormLicznik.resources
+C:\Users\jacek.gawronski\Desktop\Microsoft Visual Studio\Licznik\Licznik\obj\Debug\Licznik.Properties.Resources.resources
+C:\Users\jacek.gawronski\Desktop\Microsoft Visual Studio\Licznik\Licznik\obj\Debug\Licznik.csproj.GenerateResource.cache
+C:\Users\jacek.gawronski\Desktop\Microsoft Visual Studio\Licznik\Licznik\obj\Debug\Licznik.csproj.CoreCompileInputs.cache
+C:\Users\jacek.gawronski\Desktop\Microsoft Visual Studio\Licznik\Licznik\obj\Debug\Licznik.exe
+C:\Users\jacek.gawronski\Desktop\Microsoft Visual Studio\Licznik\Licznik\obj\Debug\Licznik.pdb
+C:\Users\Stefa\OneDrive\Dokumenty\programowanie\gacek\2023.02.22\Licznik\Licznik\bin\Debug\Licznik.exe.config
+C:\Users\Stefa\OneDrive\Dokumenty\programowanie\gacek\2023.02.22\Licznik\Licznik\bin\Debug\Licznik.exe
+C:\Users\Stefa\OneDrive\Dokumenty\programowanie\gacek\2023.02.22\Licznik\Licznik\bin\Debug\Licznik.pdb
+C:\Users\Stefa\OneDrive\Dokumenty\programowanie\gacek\2023.02.22\Licznik\Licznik\obj\Debug\Licznik.csproj.AssemblyReference.cache
+C:\Users\Stefa\OneDrive\Dokumenty\programowanie\gacek\2023.02.22\Licznik\Licznik\obj\Debug\Licznik.csproj.SuggestedBindingRedirects.cache
+C:\Users\Stefa\OneDrive\Dokumenty\programowanie\gacek\2023.02.22\Licznik\Licznik\obj\Debug\Licznik.FormLicznik.resources
+C:\Users\Stefa\OneDrive\Dokumenty\programowanie\gacek\2023.02.22\Licznik\Licznik\obj\Debug\Licznik.Properties.Resources.resources
+C:\Users\Stefa\OneDrive\Dokumenty\programowanie\gacek\2023.02.22\Licznik\Licznik\obj\Debug\Licznik.csproj.GenerateResource.cache
+C:\Users\Stefa\OneDrive\Dokumenty\programowanie\gacek\2023.02.22\Licznik\Licznik\obj\Debug\Licznik.csproj.CoreCompileInputs.cache
+C:\Users\Stefa\OneDrive\Dokumenty\programowanie\gacek\2023.02.22\Licznik\Licznik\obj\Debug\Licznik.exe
+C:\Users\Stefa\OneDrive\Dokumenty\programowanie\gacek\2023.02.22\Licznik\Licznik\obj\Debug\Licznik.pdb
