@@ -1,0 +1,11 @@
+C:\Users\Stefa\OneDrive\Dokumenty\programowanie\gacek\2023.03.01\kalkulotor\bin\Debug\kalkulotor.exe.config
+C:\Users\Stefa\OneDrive\Dokumenty\programowanie\gacek\2023.03.01\kalkulotor\bin\Debug\kalkulotor.exe
+C:\Users\Stefa\OneDrive\Dokumenty\programowanie\gacek\2023.03.01\kalkulotor\bin\Debug\kalkulotor.pdb
+C:\Users\Stefa\OneDrive\Dokumenty\programowanie\gacek\2023.03.01\kalkulotor\obj\Debug\kalkulotor.csproj.AssemblyReference.cache
+C:\Users\Stefa\OneDrive\Dokumenty\programowanie\gacek\2023.03.01\kalkulotor\obj\Debug\kalkulotor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Stefa\OneDrive\Dokumenty\programowanie\gacek\2023.03.01\kalkulotor\obj\Debug\kalkulotor.Properties.Resources.resources
+C:\Users\Stefa\OneDrive\Dokumenty\programowanie\gacek\2023.03.01\kalkulotor\obj\Debug\kalkulotor.csproj.GenerateResource.cache
+C:\Users\Stefa\OneDrive\Dokumenty\programowanie\gacek\2023.03.01\kalkulotor\obj\Debug\kalkulotor.csproj.CoreCompileInputs.cache
+C:\Users\Stefa\OneDrive\Dokumenty\programowanie\gacek\2023.03.01\kalkulotor\obj\Debug\kalkulotor.exe
+C:\Users\Stefa\OneDrive\Dokumenty\programowanie\gacek\2023.03.01\kalkulotor\obj\Debug\kalkulotor.pdb
+C:\Users\Stefa\OneDrive\Dokumenty\programowanie\gacek\2023.03.01\kalkulotor\obj\Debug\kalkulotor.KALKOLOTUR.resources
