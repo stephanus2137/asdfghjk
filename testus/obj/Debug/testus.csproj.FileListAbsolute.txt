@@ -1,0 +1,11 @@
+C:\Users\Stefa\OneDrive\Dokumenty\programowanie\gacek\2023.03.29\testus\obj\Debug\testus.csproj.AssemblyReference.cache
+C:\Users\Stefa\OneDrive\Dokumenty\programowanie\gacek\2023.03.29\testus\obj\Debug\testus.csproj.SuggestedBindingRedirects.cache
+C:\Users\Stefa\OneDrive\Dokumenty\programowanie\gacek\2023.03.29\testus\obj\Debug\testus.Form1.resources
+C:\Users\Stefa\OneDrive\Dokumenty\programowanie\gacek\2023.03.29\testus\obj\Debug\testus.Properties.Resources.resources
+C:\Users\Stefa\OneDrive\Dokumenty\programowanie\gacek\2023.03.29\testus\obj\Debug\testus.csproj.GenerateResource.cache
+C:\Users\Stefa\OneDrive\Dokumenty\programowanie\gacek\2023.03.29\testus\obj\Debug\testus.csproj.CoreCompileInputs.cache
+C:\Users\Stefa\OneDrive\Dokumenty\programowanie\gacek\2023.03.29\testus\bin\Debug\testus.exe.config
+C:\Users\Stefa\OneDrive\Dokumenty\programowanie\gacek\2023.03.29\testus\bin\Debug\testus.exe
+C:\Users\Stefa\OneDrive\Dokumenty\programowanie\gacek\2023.03.29\testus\bin\Debug\testus.pdb
+C:\Users\Stefa\OneDrive\Dokumenty\programowanie\gacek\2023.03.29\testus\obj\Debug\testus.exe
+C:\Users\Stefa\OneDrive\Dokumenty\programowanie\gacek\2023.03.29\testus\obj\Debug\testus.pdb
